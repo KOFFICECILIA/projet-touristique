@@ -1,0 +1,39 @@
+body{
+	font-size: 32px;
+}
+
+nav{
+background-color: #008080;
+height: 120px;
+
+}
+.img-fluid{
+	height: 2%;
+	width: 100%;
+}
+footer div{
+	background-color: #008080;
+	height: 200px;
+}
+#mot{
+	background-color: #008080;
+	height: 60px;
+	font-size: 32px;
+}
+.ceci{
+	display: inline-block;
+	height: 2%;
+	width: 0,5%
+}
+.detail p{ 
+	font-size: 32px
+    
+}
+#image h1{
+	position: relative;
+	top:-350px;
+	text-align: center;
+	color:#ffffffff ;
+
+	 
+}
